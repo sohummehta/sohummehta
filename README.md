@@ -6,9 +6,9 @@ I am a third year Computer Science and Machine Learning student at UC San Diego.
 
 I am balancing a few cool projects and research right now:
 
-- 🌎 **Arrival Bridge:** Building a full-stack platform designed to assist immigrants in securing housing and employment within the US. The system leverages AI-driven translation and NLP to overcome language barriers and provide real-time assistance.
-- 👕 **Garment Theory:** Making a mobile app that allows virtual clothes try-ons for a seamless shopping experience. Utilizing computer vision and machine learning models to realistically render and map outfits onto user-uploaded photos.
-- 🧐 **Research at ProtoLab:** Creating a Tangible User Interface (TUI) that uses computer vision and AI to bridge the physical-digital gap in urban planning.
+- 🌎 **Arrival Bridge:** Building a web platform connecting immigrants to essential resources like housing and jobs. powered by AI agents for cross-lingual support and query resolution
+- 👕 **Garment Theory:** Making a virtual try-on mobile app powered by generative ML. Uses image segmentation to accurately superimpose clothing onto users in real-time
+- 🧐 **Research at ProtoLab:** Creating a Tangible User Interface (TUI) that uses computer vision and AI to bridge the physical-digital gap in urban planning
 
 ## Tools I use
 

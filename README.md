@@ -4,15 +4,13 @@ I am a third year Computer Science and Machine Learning student at UC San Diego.
 
 ## What I'm currently working on
 
-I am balancing a few cool projects and research right now:
-
 -  **Arrival Bridge:** Building a web platform connecting immigrants to essential resources like housing and jobs. powered by AI agents for cross-lingual support and query resolution
 -  **Garment Theory:** Made a virtual try-on mobile app powered by generative ML. Uses image segmentation to accurately superimpose clothing onto users in real-time
 -  **Research at ProtoLab:** Creating a Tangible User Interface (TUI) that uses computer vision and AI to bridge the physical-digital gap in urban planning
 
 ## Tools I use
 
-My primary languages and tools are React, Java, Python, TypeScript, and SQL.
+My primary languages and tools are React, Java, Python, and TypeScript.
 
 Some other languages and frameworks I've utilized:
 

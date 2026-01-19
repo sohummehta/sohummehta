@@ -1,6 +1,6 @@
 # Hi, I'm Sohum! 😁
 
-I am a third year Computer Science and Machine Learning student at UC San Diego. I like building full-stack applications and experimenting with AI to solve real problems.
+I am a second year Computer Science and Machine Learning student at UC San Diego. I like building full-stack applications and experimenting with AI to solve real problems.
 
 ## What I'm currently working on
 

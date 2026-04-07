@@ -15,7 +15,7 @@ My primary languages and tools are React, Java, Python, and TypeScript.
 Some other languages and frameworks I've utilized:
 
 - **Web:** Next.js, Node.js, HTML, CSS
-- **Backend & Data:** Spring Boot, Django, Firebase
+- **Backend & Data:** PostgreSQL, Spring Boot, Django, Firebase
 - **AI & ML:** scikit-learn, OpenCV, TensorFlow, pandas, NumPy
 
 ## Fun Facts

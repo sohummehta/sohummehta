@@ -3,7 +3,7 @@
 I am a second year Computer Science and Machine Learning student at UC San Diego. I like building full-stack applications and experimenting with AI to solve problems.
 
 ## What I'm currently working on
-
+-  **AI Engineer** @ MOSH: Building solutions and streamlined workflows within a CPG business
 -  **Research at UCSD**: Working on AI for Circuit Invention
 -  **Research at ProtoLab, UCSD:** Creating a Tangible User Interface (TUI) that uses computer vision and AI to bridge the physical-digital gap in urban planning
 -  **Arrival Bridge:** Building a web platform connecting immigrants to essential resources like housing and jobs. powered by AI agents for cross-lingual support and query resolution
